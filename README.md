@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeTun
-- 👀 I’m interested your average Mechatronics student
+- 👀 I’m your average Mechatronics student
 - 🌱 I’m currently learning C++/Python
 - 💞️ I’m looking to collaborate on some stuff
 - 📫 How to reach me feel free to add me on discord
